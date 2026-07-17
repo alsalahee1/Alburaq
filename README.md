@@ -8,4 +8,4 @@ New website project for **Al Buraq International Sdn. Bhd.** (alburaqinternation
 
 ## Status
 
-Discovery/research phase complete. Next step: owner reviews the brief, supplies the items in §11 (brand assets, product list, policies, contact channels), and picks the stack (recommended: WooCommerce rebuild — see §10).
+Design phase started. A live homepage prototype ("The Night Journey" concept) is in `site/index.html`. Next: gather owner assets (see brief §11) and expand to full product/shop pages.
